@@ -1,0 +1,12 @@
+/Users/sdhaksh5/Projects/net007/net007/bin/Debug/netcoreapp3.1/core.console.app.deps.json
+/Users/sdhaksh5/Projects/net007/net007/bin/Debug/netcoreapp3.1/core.console.app.runtimeconfig.json
+/Users/sdhaksh5/Projects/net007/net007/bin/Debug/netcoreapp3.1/core.console.app.runtimeconfig.dev.json
+/Users/sdhaksh5/Projects/net007/net007/bin/Debug/netcoreapp3.1/core.console.app.dll
+/Users/sdhaksh5/Projects/net007/net007/bin/Debug/netcoreapp3.1/core.console.app.pdb
+/Users/sdhaksh5/Projects/net007/core.console.app/obj/Debug/netcoreapp3.1/core.console.app.csprojAssemblyReference.cache
+/Users/sdhaksh5/Projects/net007/core.console.app/obj/Debug/netcoreapp3.1/core.console.app.AssemblyInfoInputs.cache
+/Users/sdhaksh5/Projects/net007/core.console.app/obj/Debug/netcoreapp3.1/core.console.app.AssemblyInfo.cs
+/Users/sdhaksh5/Projects/net007/core.console.app/obj/Debug/netcoreapp3.1/core.console.app.csproj.CoreCompileInputs.cache
+/Users/sdhaksh5/Projects/net007/core.console.app/obj/Debug/netcoreapp3.1/core.console.app.dll
+/Users/sdhaksh5/Projects/net007/core.console.app/obj/Debug/netcoreapp3.1/core.console.app.pdb
+/Users/sdhaksh5/Projects/net007/core.console.app/obj/Debug/netcoreapp3.1/core.console.app.genruntimeconfig.cache
