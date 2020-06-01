@@ -1,8 +1,0 @@
-/Users/sdhaksh5/Projects/net007/net007/bin/Debug/$(TargetFramework)/fx.console.app.exe
-/Users/sdhaksh5/Projects/net007/net007/bin/Debug/$(TargetFramework)/fx.console.app.pdb
-/Users/sdhaksh5/Projects/net007/fx.console.app/obj/Debug/fx.console.app.csprojAssemblyReference.cache
-/Users/sdhaksh5/Projects/net007/fx.console.app/obj/Debug/fx.console.app.csproj.CoreCompileInputs.cache
-/Users/sdhaksh5/Projects/net007/fx.console.app/obj/Debug/fx.console.app.exe
-/Users/sdhaksh5/Projects/net007/fx.console.app/obj/Debug/fx.console.app.pdb
-/Users/sdhaksh5/Projects/net007/net007/bin/Debug/netcoreapp3.1/fx.console.app.exe
-/Users/sdhaksh5/Projects/net007/net007/bin/Debug/netcoreapp3.1/fx.console.app.pdb

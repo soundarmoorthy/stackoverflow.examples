@@ -9,17 +9,21 @@ namespace net007
     {
         static void Main(string[] args)
         {
-            var ass1 = Assembly.LoadFrom("fx.console.app.exe");
-            var ass2 = Assembly.LoadFrom("core.console.app.dll");
+            //A .net framwwork dll in the same output fodler
+            //as the current executable
+            var fxAssembly = Assembly.LoadFrom("fx.console.app.exe");
 
-            ShowFrameworkVersion(ass1);
-            ShowFrameworkVersion(ass2);
+            //A .net core dll in the same output fodler
+            //as the current executable
+            var netCoreAssembly = Assembly.LoadFrom("core.console.app.dll");
 
+            ShowFrameworkVersion(fxAssembly); //.NETFramework,Version=v4.7.2
+            ShowFrameworkVersion(netCoreAssembly);//.NETCoreApp,Version = v3.1
         }
 
-        static void ShowFrameworkVersion(Assembly ass1)
+        static void ShowFrameworkVersion(Assembly assembly)
         {
-            var attributes = ass1.CustomAttributes;
+            var attributes = assembly.CustomAttributes;
             foreach (var attribute in attributes)
             {
                 if (attribute.AttributeType == typeof(TargetFrameworkAttribute))
